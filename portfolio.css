@@ -1,0 +1,40 @@
+body{
+	background-color:#f4f4f4;
+}
+
+/*Header*/
+header{
+	background:#35424a;
+	color:#ffffff;
+	padding-top:20px;
+	border-bottom:#e8491d 3px solid;
+	display: flex;
+	text-align: right;
+}
+
+header ul{
+	float: right;
+}
+
+header li{
+	display: inline-block;
+
+
+}
+
+/*goal*/
+#goal{
+	background: url('images/samuel ajayi.jpg');
+	background-repeat: no-repeat;
+	width: 100%;
+	background-size: cover;
+}
+
+/*footer*/
+footer{
+	background-color:#e8491d;
+	text-align: center; 
+	margin-top: 20px;
+	padding: 20px;
+
+}
